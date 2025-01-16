@@ -1,4 +1,4 @@
-name: CA Marks Checker
+name: Result Checker
 on:
   schedule:
     - cron: '*/20 * * * *'   # Runs every 4 hours
